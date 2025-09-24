@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: degC.kg/m^2
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Derived unit for the product of the temperature in degrees Celsius and
+    the mass density of a medium, integrated over vertical depth or height in metres.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Degrees Celsius kilogram per square metre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/DKM2/2/

@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: cm^3
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Unit of volume which is equal to 1 millilitre or 10^-6 cubic metre.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Cubic centimetres
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/VVCC/1/
